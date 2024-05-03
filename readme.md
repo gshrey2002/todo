@@ -1,0 +1,8 @@
+.env file
+
+PORT=3000
+NODE_ENV=development
+MONGO_URI="mongodb+srv://guptashrey163:shreyshrey@todo.5sazwdn.mongodb.net/"
+JWT_SECRET=jbfvserbvfjvbeuvbvbjbvjesjbvfjbvjbvvbjbsfjvbjvbejrb
+NODE_ENV=Develpoment
+
